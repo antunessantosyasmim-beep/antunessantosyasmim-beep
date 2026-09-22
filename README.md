@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Yasmim antunes
 **`Desenvolvedora FullStack`**
 
-Me chamo Yasmim Antunes Dos Santos, tenho 15 anos e sou De Ponta Grossa. to no ensino médio , com o curso de desenvolvimento de sistemas. Créditos para essa pessoa aqui "[Larissa Kich](https://www.youtube.com/@larissakich)".
+Me chamo Yasmim Antunes Dos Santos, tenho 15 anos e sou De Ponta Grossa. to no ensino médio , com o curso de desenvolvimento de sistemas, estou ainda tentando desculpa. Créditos para essa pessoa aqui "[Larissa Kich](https://www.youtube.com/@larissakich)".
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
