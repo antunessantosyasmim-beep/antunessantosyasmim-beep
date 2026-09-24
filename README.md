@@ -5,14 +5,14 @@ Me chamo Yasmim Antunes Dos Santos, tenho 15 anos e sou De Ponta Grossa. to no e
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
-            alt=":3" 
-            title="Inscreva-se no meu canal para apoiar" 
-            src="madokami.jpg"
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
         <img 
-            alt="" 
+            alt="youtube views" 
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
@@ -168,5 +168,10 @@ Me chamo Yasmim Antunes Dos Santos, tenho 15 anos e sou De Ponta Grossa. to no e
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
